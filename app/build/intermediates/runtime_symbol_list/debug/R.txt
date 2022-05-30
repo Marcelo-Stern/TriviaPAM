@@ -1892,6 +1892,7 @@ int id mtrl_picker_text_input_range_end 0x7f0800f3
 int id mtrl_picker_text_input_range_start 0x7f0800f4
 int id mtrl_picker_title_text 0x7f0800f5
 int id multiply 0x7f0800f6
+int id myNavHostFragment 0x7f0801a3
 int id navHeader 0x7f0800f7
 int id navHeaderImage 0x7f0800f8
 int id nav_controller_view_tag 0x7f0800f9
@@ -2032,7 +2033,6 @@ int id time 0x7f08017f
 int id title 0x7f080180
 int id titleConstraint 0x7f080181
 int id titleDividerNoCustom 0x7f080182
-int id titleFragment 0x7f080183
 int id titleFragment2 0x7f080184
 int id titleImage 0x7f080185
 int id title_template 0x7f080186
